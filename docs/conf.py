@@ -1,3 +1,4 @@
+# 인사오지게 박습니다 행님덜
 # Django documentation build configuration file, created by
 # sphinx-quickstart on Thu Mar 27 09:06:53 2008.
 #
